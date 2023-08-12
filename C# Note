@@ -1,1 +1,11 @@
-C# Note
+.NET ecosystem
+	• choose either Visual Studio 2022 or Visual Studio Code and the .NET SDK.
+	The .NET SDK preinstalls a comprehensive set of libraries and application frameworks called the base class library. You can use this library of code in your programs regardless of the platform or app models you want to build.
+	• .NET App models: web, desktop, mobile, game, Azure, IoT etc.
+	• For 3rd party libraries, use package managers like NuGet to find and integrate code libraries from package repositories like the NuGet Gallery.
+	• .NET languages, libraries, packages, repositories.
+	• .NET complier converts the source code to intermediate language (IL) and saves the IL into .NET assembly file (.cs file).
+	• .NET runtime compiles the IL code into a binary format the first time the program runs
+	• Workloads: .NET Application frameworks, libraries and tools that work together to build a specific app model
+	• Tools: Visual Studio 2022 (GUI), set of Visual Studio Code/CLI/.NET SDK, 1st or 3rd party's use cases (code profilers, unit test runners, code coverage analyzers), Try .NET (https://try.dot.net), Azure SDK, ML.NET, ASP.NET,
+.NET history: .NET Framework (2002)->.NET (after 2002, cross-platform)->.NET Core (2014), .NET x (5,6,7 …)
